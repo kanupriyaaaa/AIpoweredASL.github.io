@@ -1,2 +1,2 @@
 # AIpoweredASL.github.io
-website for ASL project 
+Perspectives of ASL project 
